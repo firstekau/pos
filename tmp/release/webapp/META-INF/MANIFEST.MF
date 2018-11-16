@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+commitTime: 15.12.2017 @ 22:40:27 UTC
+Archiver-Version: Plexus Archiver
+Built-By: root
+commitId: a78c670330b7979ae7f25d10bbc3b8cee2848b6f
+branch: develop
+version: 2.5-SNAPSHOT
+Main-Class: main.Main
+Ant-Version: Apache Ant 1.8.2
+Ignore-Scanning-Packages: com,org,net
+buildTime: 15.12.2017 @ 22:51:23 UTC
+describe: 2.4-283-ga78c670
+remoteOriginUrl: https://bitbucket.org/meszarv/webswing.git
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+
